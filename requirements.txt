@@ -1,0 +1,9 @@
+aiohttp
+requests
+urllib3
+pycryptodome
+protobuf==3.20.3
+protobuf-decoder
+fastapi
+uvicorn[standard]
+websockets
